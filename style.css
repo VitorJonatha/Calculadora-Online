@@ -39,6 +39,7 @@ main {
     display: flexbox;
 }
 #input {
+    color: black;
     margin-top: -2px;
     border-radius: 21px;
     font-size: 30px;
